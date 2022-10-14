@@ -24,7 +24,11 @@ z = fly
 go to this sides 
 
 opkasteren.github.io/3048/
+
 opkasteren.github.io/zombiespillet2/
+
 opkasteren.github.io/theninja/
+
 opkasteren.github.io/swordmanidle
+
 opkasteren.github.io/swordmanwalk
